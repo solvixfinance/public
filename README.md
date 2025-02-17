@@ -1,5 +1,7 @@
 # **Solvix – Real-World Asset Tokenization on Solana**
 
+![Solvix Header](files/img/header.png)
+
 ## **Overview**
 Solvix is a cutting-edge blockchain platform that enables the tokenization of real-world assets (RWA) on the **Solana** blockchain. Whether it's **real estate, commodities, financial securities, or intellectual property**, Solvix provides a **secure, efficient, and fully compliant** infrastructure to tokenize, trade, and manage real-world assets in a decentralized manner.
 
