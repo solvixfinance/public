@@ -40,14 +40,24 @@ Solvix provides a seamless experience for users to tokenize and trade assets thr
 - Utilize DeFi integrations for lending, staking, and liquidity pools.
 
 ## **Roadmap**
-### 🚀 **March 2025 – Launch of Solvix Web & Mobile Apps**
+### **March 2025 – Launch of Solvix Web & Mobile Apps**
 - **Solvix Web App** for tokenization, trading, and staking
 - **Solvix Mobile App (iOS & Android)** for on-the-go asset management
 - **DEX Integration** for decentralized RWA trading
 
-### 🌍 **Q2 2025 – Institutional Expansion**
-- **Onboarding of real estate firms & asset managers**
-- **Institutional-grade security & compliance tools**
+### **Q2 2025 – Institutional Expansion**
+- **Alpha Launch** - Smart contract development, legal structuring, MVP launch
+- **Testnet Deployment** - Testnet launch with early adopters, compliance audits
+
+### **Q3 2025 – Mainnet**
+- **Mainnet Launch** - Full-scale deployment, partnerships with financial institutions
+
+### **Q4 2025 - Floor**
+- **DEX & Staking Launch** - Solvix marketplace integration, staking rewards activation
+- **Expansion** - Onboarding real estate firms, commodities traders, global scaling
+
+### **2026+ *
+- **Institutional Adoption** - Expansion into enterprise-grade RWA tokenization and regulatory integration
 
 ## **Security & Compliance**
 Solvix is committed to regulatory compliance, integrating **KYC/AML verification, legal wrappers, and jurisdictional approvals** to ensure **global adherence** to financial laws.
