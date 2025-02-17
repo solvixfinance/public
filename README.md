@@ -41,20 +41,22 @@ Solvix provides a seamless experience for users to tokenize and trade assets thr
 
 ## **Roadmap**
 ### 🚀 **March 2025 – Launch of Solvix Web & Mobile Apps**
-- ✅ **Solvix Web App** for tokenization, trading, and staking
-- ✅ **Solvix Mobile App (iOS & Android)** for on-the-go asset management
-- ✅ **DEX Integration** for decentralized RWA trading
+- **Solvix Web App** for tokenization, trading, and staking
+- **Solvix Mobile App (iOS & Android)** for on-the-go asset management
+- **DEX Integration** for decentralized RWA trading
 
 ### 🌍 **Q2 2025 – Institutional Expansion**
-- ✅ **Onboarding of real estate firms & asset managers**
-- ✅ **Institutional-grade security & compliance tools**
+- **Onboarding of real estate firms & asset managers**
+- **Institutional-grade security & compliance tools**
 
 ## **Security & Compliance**
 Solvix is committed to regulatory compliance, integrating **KYC/AML verification, legal wrappers, and jurisdictional approvals** to ensure **global adherence** to financial laws.
 
 ## **Stay Connected**
-🌐 **Website:** [www.solvix.finance](#)
-📢 **Twitter:** [@SolvixFinance](#)
+🌐 **Website:** [www.solvix.finance](https://www.solvix.finance)
+
+📢 **Twitter:** [@SolvixFinance](https://www.x.com/solvixfinance)
+
 📧 **Contact:** info@solvix.finance
 
 Your assets. Your future. **Tokenized with Solvix.**
