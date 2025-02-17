@@ -56,7 +56,7 @@ Solvix provides a seamless experience for users to tokenize and trade assets thr
 - **DEX & Staking Launch** - Solvix marketplace integration, staking rewards activation
 - **Expansion** - Onboarding real estate firms, commodities traders, global scaling
 
-### **2026+ *
+### **2026+**
 - **Institutional Adoption** - Expansion into enterprise-grade RWA tokenization and regulatory integration
 
 ## **Security & Compliance**
