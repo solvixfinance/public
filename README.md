@@ -7,9 +7,13 @@ Solvix is a cutting-edge blockchain platform that enables the tokenization of re
 
 ## **Key Features**
 ✅ **Tokenize Any Real-World Asset** – Convert assets into digital tokens with built-in compliance.
+
 ✅ **Fast & Low-Cost Transactions** – Powered by **Solana’s high-speed, low-fee network**.
+
 ✅ **Fractional Ownership** – Lower barriers to asset investments for global participation.
+
 ✅ **Decentralized Trading** – Buy, sell, and stake RWA-backed tokens with instant liquidity.
+
 ✅ **Compliant & Secure** – Integrated **KYC/AML** and automated smart contract governance.
 
 ## **How It Works**
